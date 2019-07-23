@@ -1,0 +1,17 @@
+{
+    "name": "chamika/composer-pakagist",
+    "description": "composer test",
+    "type": "library",
+    "authors": [
+        {
+            "name": "chamika",
+            "email": "chamikanishanc@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Acme\\":"src/"
+        }
+    }
+}
