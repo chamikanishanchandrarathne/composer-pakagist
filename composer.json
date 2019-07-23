@@ -8,10 +8,12 @@
             "email": "chamikanishanc@gmail.com"
         }
     ],
-    "require": {},
+    
     "autoload": {
         "psr-4": {
             "Acme\\":"src/"
         }
-    }
+    },
+    "require": {}
+
 }
