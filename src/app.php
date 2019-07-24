@@ -2,7 +2,7 @@
 
 namespace Acme;
 
-class Page{
+class app{
     public function  __construct()
     {
         echo "hello,i am a page";
